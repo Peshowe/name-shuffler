@@ -1,4 +1,4 @@
-module github.com/Peshowe/Name-shuffler
+module github.com/Peshowe/name-shuffler
 
 go 1.15
 
