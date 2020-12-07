@@ -1,0 +1,12 @@
+smtpaddress: smtp.example.com:25 # the SMTP Server:Port to use to send the email
+sender: daily.generatorov@example.com #the email used as the sender
+names: # the names to be shuffled and included in the email
+  - Alice
+  - Bob
+  - Ivan
+  - Petar
+receivers: # the email addresses to which to send the email
+  - alice@example.com
+  - bob@example.com
+  - ivan@example.com
+  - petar@example.com
