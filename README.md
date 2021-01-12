@@ -40,3 +40,25 @@ docker run --rm name-shuffler
 ### Structure of YAML
 
 An example YAML file is given in [email_details.yaml](email_details.yaml). 
+
+## Example output
+
+Contents of an example email that will be sent by the script: 
+
+```
+Today's daily order will be the following:
+
+Petar 
+Ivan 
+Bob 
+Alice 
+
+
+Random quote of the day:
+"Many a false step was made by standing still."
+- Fortune Cookie
+
+Regards,
+The random generator
+
+```
